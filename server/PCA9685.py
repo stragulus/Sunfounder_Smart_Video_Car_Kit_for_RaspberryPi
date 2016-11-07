@@ -35,7 +35,8 @@ class PWM(object):
 					'Pi 3 Model B',
 					'Pi 2 Model B',
 					'Pi2 Model B',
-					'Model B+']
+					'Model B+',
+					'Zero']
 
 	_DEBUG = False
 	_DEBUG_INFO = 'DEBUG "PCA9685.py":'
